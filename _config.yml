@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: uusama
+subtitle: 必ず自分の好きなようにしなければならない
+description: 记录游戏，PHP，Java，JavaScript等前端后台技术相关的悠悠博客
+keywords: uusama,悠悠博客,技术博客,canvas,canvas教程,php,javascript
+author: uusama
+language: zh
+timezone: Asia/shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://uusama.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :id.html
 permalink_defaults:
 
 # Directory
@@ -54,7 +54,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: others
 category_map:
 tag_map:
 
