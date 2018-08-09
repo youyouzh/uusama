@@ -8,7 +8,7 @@ subtitle: 必ず自分の好きなようにしなければならない
 description: 记录游戏，PHP，Java，JavaScript等前端后台技术相关的悠悠博客
 keywords: uusama,悠悠博客,技术博客,canvas,canvas教程,php,javascript
 author: uusama
-language: zh
+language: zh-Hans
 timezone: Asia/shanghai
 
 # URL
@@ -73,7 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
