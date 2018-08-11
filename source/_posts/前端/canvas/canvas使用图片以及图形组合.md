@@ -6,8 +6,8 @@ tags:
 url: 619.html
 id: 619
 categories:
-  - canvas
   - 前端
+  - canvas
 date: 2018-03-02 22:27:04
 ---
 这篇文章将会介绍如何在canvas中对绘制的基本图形进行移动，旋转，缩放等变形方法，还会介绍如何在canvas中加载图像，图形之间的组合方式以及裁剪。

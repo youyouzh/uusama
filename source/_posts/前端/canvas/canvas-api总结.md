@@ -6,8 +6,8 @@ tags:
 url: 632.html
 id: 632
 categories:
-  - canvas
   - 前端
+  - canvas
 date: 2018-03-07 15:19:47
 comments: true
 keywords: canvas, JavaScript, canvas api

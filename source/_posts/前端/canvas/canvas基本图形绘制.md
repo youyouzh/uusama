@@ -6,8 +6,8 @@ tags:
 url: 592.html
 id: 592
 categories:
-  - canvas
   - 前端
+  - canvas
 date: 2018-03-01 11:49:23
 ---
 

@@ -6,9 +6,8 @@ tags:
 url: 627.html
 id: 627
 categories:
-  - canvas
-  - JavaScript
   - 前端
+  - canvas
 date: 2018-03-05 18:37:50
 ---
 经过前面的文章，我们已经能够在canvas画布上画出各种炫酷的图形和画面，但是这些画面都是禁止的，怎么样才能让他们动起来呢？

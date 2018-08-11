@@ -6,8 +6,8 @@ tags:
 url: 601.html
 id: 601
 categories:
-  - canvas
   - 前端
+  - canvas
 date: 2018-03-01 16:46:38
 ---
 在[上一篇文章](http://uusama.com/592.html)中，我们可以通过canvas绘制基本的图形，这些图形的颜色都是默认的，这篇文章将会介绍如何设置图形的颜色行样式，使得绘制的图形更加炫酷！

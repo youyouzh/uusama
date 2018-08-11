@@ -6,8 +6,8 @@ tags:
 url: 613.html
 id: 613
 categories:
-  - canvas
   - 前端
+  - canvas
 date: 2018-03-02 14:33:58
 ---
 
