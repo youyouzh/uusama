@@ -80,3 +80,7 @@ theme: next-6.4.0
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# for show mathjax, replace renderer engine
+# npm uninstall hexo-renderer-marked --save
+# npm install hexo-renderer-kramed –save
