@@ -1,12 +1,12 @@
-# some project files
 .DS_Store
 Thumbs.db
-.idea/
-
-# temp files
 db.json
 *.log
 node_modules/
 public/
 .deploy*/
-temp/
+
+# IDEA file
+.idea/
+*.iml
+.vscode/
